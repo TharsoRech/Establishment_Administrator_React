@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+WebApp using react to management a application of GiftCards.  With TypeScript,AuthGuard,JwtToken,save jwt token in cookies,Middlewares,UseSate,UseEffect and other tools.
 
 ## Available Scripts
 
